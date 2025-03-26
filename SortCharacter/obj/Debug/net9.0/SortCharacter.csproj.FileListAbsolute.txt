@@ -1,0 +1,14 @@
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\bin\Debug\net9.0\SortCharacter.exe
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\bin\Debug\net9.0\SortCharacter.deps.json
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\bin\Debug\net9.0\SortCharacter.runtimeconfig.json
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\bin\Debug\net9.0\SortCharacter.dll
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\bin\Debug\net9.0\SortCharacter.pdb
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.AssemblyInfoInputs.cache
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.AssemblyInfo.cs
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.csproj.CoreCompileInputs.cache
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.dll
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\refint\SortCharacter.dll
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.pdb
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\SortCharacter.genruntimeconfig.cache
+C:\Users\YOGAKUSSETIAWAN\Documents\Nawadata\SortCharacter\obj\Debug\net9.0\ref\SortCharacter.dll
